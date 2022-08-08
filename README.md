@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋Merhaba ben @ethemkızılyer
+👀Web Geliştirme ile ilgileniyorum
+🌱Şu anda HTML, CSS, JavaScript ve React öğreniyorum
+📫Bana nasıl ulaşabilirsin ethemkizilyer3546@gmail.com
