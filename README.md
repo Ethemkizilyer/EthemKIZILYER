@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 📫Bana nasıl ulaşabilirsin ethemkizilyer3546@gmail.com
 
 ⚡ Fun fact: https://ethemkizilyer.github.io/desktop_my/
+https://camo.githubusercontent.com/ea20719b4184fbb81f94d97744715de82cbb64cce968c3ac1325ee86d06823f2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6f7a6b616e6b6f6d752673686f775f69636f6e733d74727565267468656d653d7261646963616c
