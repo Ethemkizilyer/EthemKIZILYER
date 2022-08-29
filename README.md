@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: https://ethemkizilyer.github.io/desktop_my/
 
-<div style="width:100%;height:0;padding-bottom:51%;position:relative;"><iframe src="https://giphy.com/embed/AhjXalGPAfJg4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/the-it-crowd-typing-office-AhjXalGPAfJg4">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:51%;position:relative;"><iframe src="https://giphy.com/embed/AhjXalGPAfJg4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
