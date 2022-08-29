@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://komarev.com/ghpvc/?username=ethemkizilyer&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Merhaba (or hi):)
+  Merhaba (or Hi)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -61,7 +61,7 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ethem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethem-kizilyer-691024241/)
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -79,7 +79,8 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ethemkizilyer&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ethemkizilyer&theme=dark&background=000000)](https://github.com/ethemkizilyer/github)
+<!-- (https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethemkizilyer&layout=compact&theme=vision-friendly-dark)](https://github.com/ethemkizilyer/github)
 <!-- (https://github.com/ethemkizilyer/github-readme-stats) -->
