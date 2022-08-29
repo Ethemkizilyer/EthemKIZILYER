@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/AhjXalGPAfJg4/giphy.gif?cid=790b7611bc0fff13d0d3277663a2b5be79f8ec004b714120&rid=giphy.gif&ct=g" width="400"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -39,3 +39,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
