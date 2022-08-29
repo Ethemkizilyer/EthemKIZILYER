@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: https://ethemkizilyer.github.io/desktop_my/
 
-<div style="width:100%;height:0;padding-bottom:51%;position:relative;"><iframe src="https://giphy.com/embed/AhjXalGPAfJg4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/AhjXalGPAfJg4/giphy.gif?cid=790b7611bc0fff13d0d3277663a2b5be79f8ec004b714120&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://media2.giphy.com/media/AhjXalGPAfJg4/giphy.gif?cid=790b7611bc0fff13d0d3277663a2b5be79f8ec004b714120&rid=giphy.gif&ct=g" width="400"/>
 </div>
 
