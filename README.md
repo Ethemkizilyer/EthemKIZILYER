@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: https://ethemkizilyer.github.io/desktop_my/
 
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/1Aj491qX7K45qZs6EP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/itcrowd-theitcrowd-1Aj491qX7K45qZs6EP">via GIPHY</a></p>
+
