@@ -43,13 +43,13 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/AhjXalGPAfJg4/giphy.gif?cid=790b7611bc0fff13d0d3277663a2b5be79f8ec004b714120&rid=giphy.gif&ct=g" width="400"/>
 </div>
 
-👀Web Geliştirme ile ilgileniyorum
+<!-- 👀Web Geliştirme ile ilgileniyorum
 
 🌱Şu anda HTML, CSS, JavaScript ve React öğreniyorum
 
 📫Bana nasıl ulaşabilirsin ethemkizilyer3546@gmail.com
 
-⚡ Fun fact: https://ethemkizilyer.github.io/desktop_my/
+⚡ Fun fact: https://ethemkizilyer.github.io/desktop_my/ -->
 
 I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
@@ -87,5 +87,5 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 
 ### :writing_hand: Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:START 
+ BLOG-POST-LIST:END 
