@@ -83,8 +83,7 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 <!-- (https://github.com/ethemkizilyer/github) -->
 <!-- (https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethemkizilyer&layout=compact&theme=vision-friendly-dark)(https://github.com/ethemkizilyer/github)
-<!-- (https://github.com/ethemkizilyer/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethemkizilyer&layout=compact&theme=vision-friendly-dark)](https://github.com/ethemkizilyer/github)
 
 ---
 
