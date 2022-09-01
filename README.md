@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 </h1>
 
 
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://media2.giphy.com/media/AhjXalGPAfJg4/giphy.gif?cid=790b7611bc0fff13d0d3277663a2b5be79f8ec004b714120&rid=giphy.gif&ct=g" width="400"/>
-</div>
+</div> -->
 
 <!-- 👀Web Geliştirme ile ilgileniyorum
 
