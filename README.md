@@ -57,7 +57,7 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 
 - :seedling: https://ethemkizilyer.github.io/desktop_my/
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Codewars,HackerRank,GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ethem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethem-kizilyer-691024241/)
 
