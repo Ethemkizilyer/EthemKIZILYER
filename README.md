@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--<div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>-->
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ethem-kizilyer-691024241/">
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 </h1>
 
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media2.giphy.com/media/AhjXalGPAfJg4/giphy.gif?cid=790b7611bc0fff13d0d3277663a2b5be79f8ec004b714120&rid=giphy.gif&ct=g" width="400"/>
-</div> 
+</div>  -->
 
 <!-- 👀Web Geliştirme ile ilgileniyorum
 
