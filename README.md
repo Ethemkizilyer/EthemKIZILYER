@@ -29,9 +29,9 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 <!-- (https://github.com/ethemkizilyer/github) -->
 <!-- (https://git.io/streak-stats) -->
 <div display="flex" align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ethemkizilyer&theme=highcontrast&hide_border=yanl%C4%B1%C5%9F" width="500" display="inline" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ethemkizilyer&theme=highcontrast&hide_border=yanl%C4%B1%C5%9F" width="400" display="inline" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethemkizilyer&layout=compact&theme=vision-friendly-dark" width="418" display="inline"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethemkizilyer&layout=compact&theme=vision-friendly-dark" width="318" display="inline"/>
 </div>
 
 
