@@ -1,12 +1,3 @@
-
-<!-- 👀Web Geliştirme ile ilgileniyorum
-
-🌱Şu anda HTML, CSS, JavaScript ve React öğreniyorum
-
-📫Bana nasıl ulaşabilirsin ethemkizilyer3546@gmail.com
-
-⚡ Fun fact: https://ethemkizilyer.github.io/desktop_my/ -->
-
 I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 <!-- - :telescope:| Full Stack Developer Student | -->
@@ -35,15 +26,13 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ethemkizilyer&theme=highcontrast&hide_border=yanl%C4%B1%C5%9F)](https://git.io/streak-stats)
 <!-- (https://github.com/ethemkizilyer/github) -->
 <!-- (https://git.io/streak-stats) -->
+<div display="flex" align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ethemkizilyer&theme=highcontrast&hide_border=yanl%C4%B1%C5%9F" width="500" display="inline" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethemkizilyer&layout=compact&theme=vision-friendly-dark)](https://github.com/ethemkizilyer/github)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethemkizilyer&layout=compact&theme=vision-friendly-dark" width="418" display="inline"/>
+</div>
 
 
-### :writing_hand: Blog Posts :
 
-<!--  BLOG-POST-LIST:START 
- BLOG-POST-LIST:END 
- -->
