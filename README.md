@@ -1,29 +1,15 @@
-<h2> 👋   Hi there! I'm Ethem KIZILYER...:wave:  </h2>
+<!-- <h2> 👋   Hi there! I'm Ethem KIZILYER...:wave:  </h2> -->
 
 I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 <!-- - :telescope:| Full Stack Developer Student | -->
 
-- :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
+<!-- - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer -->
 
-- :zap: In my free time, I solve problems on Codewars,HackerRank,GeeksforGeeks and read tech articles.
+<!-- - :zap: In my free time, I solve problems on Codewars,HackerRank,GeeksforGeeks and read tech articles. -->
 
-- :mailbox:How to reach me: 👇
+<!-- - :mailbox:How to reach me: 👇 -->
 <!-- -  [![Linkedin Badge](https://img.shields.io/badge/-ethem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethem-kizilyer-691024241/) -->
-
-## :man: Social
-
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethem-kizilyer/)
-
-[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/ethemkizilyer351)
-
-[<img alt="Codewars" src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>](https://www.codewars.com/users/Ethem)
-
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ethemkizilyer3546@gmail.com)
-
-<a href="https://www.sololearn.com/profile/26034259"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="25"> </a>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethem" alt="ethem" /> </p> -->
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -57,6 +43,22 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethemkizilyer&layout=compact&theme=vision-friendly-dark" width="318" display="inline"/>
 </div>
+
+
+## :man: Social
+
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethem-kizilyer/)
+
+[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/ethemkizilyer351)
+
+[<img alt="Codewars" src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>](https://www.codewars.com/users/Ethem)
+
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ethemkizilyer3546@gmail.com)
+
+<a href="https://www.sololearn.com/profile/26034259"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="25"> </a>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethem" alt="ethem" /> </p> -->
+
 
 
 
