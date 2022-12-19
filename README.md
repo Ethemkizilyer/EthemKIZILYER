@@ -49,11 +49,11 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 ## :man: Social
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ethem-kizilyer/" > <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Tableau"  height="40"> </a>
-<a href="https://www.hackerrank.com/ethemkizilyer351" > <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Tableau"  height="40"> </a>
-<a href="https://www.codewars.com/users/Ethem"> <img src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Tableau"  height="40"> </a>
-<a href="mailto:ethemkizilyer3546@gmail.com"> <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt="Tableau"  height="40"> </a>
-<a href="https://www.sololearn.com/profile/26034259"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="40"> </a>
+<a href="https://www.linkedin.com/in/ethem-kizilyer/" > <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Tableau"  height="35"> </a>
+<a href="https://www.hackerrank.com/ethemkizilyer351" > <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Tableau"  height="35"> </a>
+<a href="https://www.codewars.com/users/Ethem"> <img src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Tableau"  height="35"> </a>
+<a href="mailto:ethemkizilyer3546@gmail.com"> <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt="Tableau"  height="35"> </a>
+<a href="https://www.sololearn.com/profile/26034259"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="35"> </a>
 
 </div>
 
