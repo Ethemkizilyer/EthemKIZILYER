@@ -15,11 +15,13 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 <br>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img alt="TypeScript"  src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img  alt="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="40" height="40"/>&nbsp;
+<img  alt="Sass"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>&nbsp;
+<img  alt="Styled Components" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -27,9 +29,8 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 <!-- (https://github.com/ethemkizilyer/github) -->
@@ -46,16 +47,16 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 
 
 ## :man: Social
+<div align="center">
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethem-kizilyer/)
-
-[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/ethemkizilyer351)
-
-[<img alt="Codewars" src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>](https://www.codewars.com/users/Ethem)
-
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ethemkizilyer3546@gmail.com)
-
+<a href="https://www.linkedin.com/in/ethem-kizilyer/" height="25"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Tableau"  height="25"> </a>
+<a href="https://www.hackerrank.com/ethemkizilyer351" height="25"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Tableau"  height="25"> </a>
+<a href="https://www.codewars.com/users/Ethem"> <img src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Tableau"  height="25"> </a>
+<a href="mailto:ethemkizilyer3546@gmail.com"> <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt="Tableau"  height="25"> </a>
 <a href="https://www.sololearn.com/profile/26034259"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="25"> </a>
+
+</div>
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethem" alt="ethem" /> </p> -->
 
