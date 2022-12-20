@@ -1,6 +1,6 @@
 <!-- <h2> 👋   Hi there! I'm Ethem KIZILYER...:wave:  </h2> -->
 
-I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 <!-- - :telescope:| Full Stack Developer Student | -->
 
