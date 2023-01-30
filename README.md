@@ -16,7 +16,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,styledcomponents,sass,redux,react,py,postgres,nextjs,materialui,jquery,firebase,docker,django,bootstrap,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,js,ts,html,css,tailwind,styledcomponents,sass,redux,react,py,postgres,materialui,jquery,firebase,docker,django,bootstrap,)](https://skillicons.dev)
 </div>
 
 <!-- (https://github.com/ethemkizilyer/github) -->
